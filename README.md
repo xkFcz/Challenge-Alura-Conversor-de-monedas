@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=for-the-badge&logo=github-actions&logoColor=white">
+   <img src="https://img.shields.io/badge/Estado-En%20Desarrollo%20(Finalizado)-green?style=for-the-badge&logo=github-actions&logoColor=white">
    <img src="https://img.shields.io/badge/CI-Habilitado-green?style=for-the-badge&logo=gitlab&logoColor=white">
    <img src="https://img.shields.io/badge/Fecha%20de%20Lanzamiento-2025-green?style=for-the-badge&logo=calendar&logoColor=white">
 </p>
